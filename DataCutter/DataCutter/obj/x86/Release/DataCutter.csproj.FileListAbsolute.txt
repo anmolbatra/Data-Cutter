@@ -1,0 +1,9 @@
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\bin\Release\DataCutter.exe
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\bin\Release\DataCutter.pdb
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\DataCutter.Form1.resources
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\DataCutter.Properties.Resources.resources
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\DataCutter.exe
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Release\DataCutter.pdb

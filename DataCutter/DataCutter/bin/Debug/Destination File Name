@@ -1,0 +1,986 @@
+,city,beds,type
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,2,Condo
+,RIO LINDA,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,1,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,RIO LINDA,2,Residential
+,CITRUS HEIGHTS,2,Condo
+,SACRAMENTO,2,Residential
+,RIO LINDA,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,4,Residential
+,NORTH HIGHLANDS,4,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,2,Condo
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,3,Residential
+,ELVERTA,3,Residential
+,ELK GROVE,2,Condo
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,1,Condo
+,SACRAMENTO,2,Condo
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,ANTELOPE,2,Residential
+,NORTH HIGHLANDS,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,GALT,3,Residential
+,SACRAMENTO,4,Multi-Family
+,SACRAMENTO,3,Residential
+,CARMICHAEL,3,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,3,Residential
+,GALT,3,Residential
+,ORANGEVALE,4,Residential
+,GALT,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,4,Multi-Family
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,FOLSOM,3,Residential
+,CARMICHAEL,3,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,2,Residential
+,ELK GROVE,5,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,MATHER,3,Residential
+,RIO LINDA,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,5,Residential
+,CITRUS HEIGHTS,3,Residential
+,ELK GROVE,4,Residential
+,CARMICHAEL,2,Condo
+,ELK GROVE,3,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,5,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,0,Residential
+,SACRAMENTO,3,Condo
+,POLLOCK PINES,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,POLLOCK PINES,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,8,Multi-Family
+,ELK GROVE,4,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Multi-Family
+,ELK GROVE,5,Residential
+,ELK GROVE,3,Residential
+,GOLD RIVER,2,Residential
+,SACRAMENTO,5,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,5,Residential
+,RANCHO CORDOVA,5,Residential
+,RANCHO CORDOVA,0,Residential
+,SACRAMENTO,4,Residential
+,ORANGEVALE,2,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,0,Residential
+,FOLSOM,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,4,Residential
+,EL DORADO HILLS,3,Residential
+,SACRAMENTO,0,Residential
+,RANCHO MURIETA,4,Residential
+,WILTON,3,Residential
+,ELK GROVE,5,Residential
+,SACRAMENTO,5,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,GREENWOOD,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,5,Residential
+,RANCHO CORDOVA,5,Residential
+,ELK GROVE,0,Residential
+,FOLSOM,5,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,5,Residential
+,FOLSOM,4,Residential
+,FOLSOM,0,Residential
+,EL DORADO HILLS,4,Residential
+,EL DORADO HILLS,4,Residential
+,SACRAMENTO,3,Residential
+,EL DORADO HILLS,6,Residential
+,CITRUS HEIGHTS,2,Condo
+,SACRAMENTO,4,Residential
+,ELK GROVE,2,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,RANCHO MURIETA,0,Residential
+,SACRAMENTO,2,Residential
+,ELK GROVE,1,Condo
+,SACRAMENTO,3,Residential
+,ELK GROVE,1,Condo
+,GALT,3,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,2,Residential
+,RANCHO CORDOVA,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,3,Residential
+,ELVERTA,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,GALT,3,Residential
+,FAIR OAKS,2,Condo
+,SACRAMENTO,3,Residential
+,ELK GROVE,0,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,2,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,2,Residential
+,ELK GROVE,2,Residential
+,SACRAMENTO,2,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,2,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,ANTELOPE,2,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,4,Residential
+,RANCHO CORDOVA,4,Residential
+,ELK GROVE,3,Residential
+,CARMICHAEL,4,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,ANTELOPE,3,Residential
+,CAMERON PARK,3,Residential
+,LINCOLN,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,PLACERVILLE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Residential
+,CAMERON PARK,2,Residential
+,PLACERVILLE,2,Residential
+,CITRUS HEIGHTS,4,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,0,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,4,Residential
+,RIO LINDA,4,Residential
+,MEADOW VISTA,3,Residential
+,FAIR OAKS,2,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,FOLSOM,0,Condo
+,ELK GROVE,0,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,0,Residential
+,ORANGEVALE,3,Residential
+,ORANGEVALE,4,Residential
+,ROSEVILLE,3,Residential
+,ANTELOPE,3,Residential
+,CITRUS HEIGHTS,5,Multi-Family
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,ANTELOPE,3,Residential
+,LINCOLN,4,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,0,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,4,Residential
+,FAIR OAKS,3,Residential
+,SACRAMENTO,4,Residential
+,ROSEVILLE,3,Residential
+,FAIR OAKS,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,3,Residential
+,LINCOLN,4,Residential
+,GOLD RIVER,0,Condo
+,RIO LINDA,3,Residential
+,GALT,4,Residential
+,PLACERVILLE,3,Residential
+,SACRAMENTO,4,Residential
+,GOLD RIVER,3,Residential
+,ROSEVILLE,0,Residential
+,SACRAMENTO,0,Residential
+,LINCOLN,5,Residential
+,SACRAMENTO,4,Residential
+,LINCOLN,2,Residential
+,FOLSOM,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,2,Residential
+,RANCHO CORDOVA,4,Residential
+,SACRAMENTO,3,Residential
+,FOLSOM,4,Residential
+,GALT,4,Residential
+,PLACERVILLE,4,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,5,Residential
+,ROCKLIN,4,Residential
+,ELK GROVE,5,Residential
+,CAMERON PARK,3,Residential
+,ROCKLIN,4,Residential
+,ELK GROVE,4,Residential
+,GALT,5,Residential
+,RANCHO CORDOVA,0,Residential
+,RANCHO MURIETA,4,Residential
+,SACRAMENTO,0,Residential
+,LINCOLN,4,Residential
+,EL DORADO HILLS,5,Residential
+,SACRAMENTO,2,Residential
+,FOLSOM,4,Residential
+,SACRAMENTO,3,Residential
+,EL DORADO HILLS,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,5,Residential
+,ROCKLIN,5,Residential
+,CARMICHAEL,2,Residential
+,PLACERVILLE,4,Residential
+,ELK GROVE,4,Residential
+,ROSEVILLE,0,Residential
+,AUBURN,3,Residential
+,EL DORADO HILLS,0,Residential
+,WILTON,0,Residential
+,SACRAMENTO,5,Residential
+,CARMICHAEL,4,Residential
+,ROSEVILLE,4,Residential
+,ROSEVILLE,4,Residential
+,FAIR OAKS,5,Residential
+,SACRAMENTO,5,Residential
+,LOOMIS,4,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,1,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,2,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Multi-Family
+,SACRAMENTO,1,Condo
+,CITRUS HEIGHTS,2,Residential
+,SACRAMENTO,4,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,ANTELOPE,2,Condo
+,ROSEVILLE,2,Condo
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,4,Multi-Family
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,GALT,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,ELVERTA,4,Residential
+,SACRAMENTO,2,Condo
+,ROSEVILLE,2,Condo
+,SACRAMENTO,4,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,2,Residential
+,RIO LINDA,2,Residential
+,CARMICHAEL,3,Condo
+,ELVERTA,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,5,Residential
+,ROSEVILLE,2,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,3,Residential
+,ROSEVILLE,2,Residential
+,CITRUS HEIGHTS,2,Residential
+,RIO LINDA,3,Residential
+,ELK GROVE,2,Residential
+,GALT,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,CITRUS HEIGHTS,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,GALT,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,CARMICHAEL,2,Condo
+,ROSEVILLE,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,4,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,ROSEVILLE,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,3,Residential
+,ANTELOPE,3,Residential
+,GALT,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Condo
+,ANTELOPE,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,3,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,RANCHO CORDOVA,5,Multi-Family
+,FOLSOM,3,Residential
+,SACRAMENTO,3,Condo
+,GALT,4,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,5,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,RIO LINDA,4,Residential
+,RIO LINDA,3,Residential
+,SACRAMENTO,3,Residential
+,ORANGEVALE,4,Residential
+,ANTELOPE,3,Residential
+,ELK GROVE,4,Residential
+,AUBURN,2,Condo
+,ELK GROVE,0,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,EL DORADO HILLS,4,Residential
+,RANCHO CORDOVA,4,Residential
+,CARMICHAEL,3,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,4,Residential
+,ROCKLIN,0,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,GALT,4,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,ROCKLIN,3,Residential
+,AUBURN,2,Multi-Family
+,CARMICHAEL,4,Residential
+,EL DORADO,3,Residential
+,SACRAMENTO,5,Residential
+,ELK GROVE,4,Residential
+,RANCHO CORDOVA,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,LINCOLN,5,Residential
+,RANCHO CORDOVA,4,Residential
+,ROSEVILLE,0,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,5,Residential
+,ANTELOPE,5,Residential
+,ANTELOPE,5,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,3,Residential
+,RANCHO CORDOVA,0,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,GALT,4,Residential
+,GALT,0,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,0,Condo
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,ROSEVILLE,3,Residential
+,ROSEVILLE,0,Residential
+,ROCKLIN,2,Residential
+,PLACERVILLE,4,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,0,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,5,Residential
+,SACRAMENTO,3,Residential
+,EL DORADO HILLS,3,Residential
+,ANTELOPE,4,Residential
+,ROCKLIN,0,Residential
+,SACRAMENTO,4,Multi-Family
+,EL DORADO HILLS,4,Residential
+,FOLSOM,4,Residential
+,CAMERON PARK,4,Residential
+,SACRAMENTO,2,Residential
+,ROCKLIN,3,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,5,Residential
+,ROSEVILLE,3,Residential
+,EL DORADO HILLS,4,Residential
+,ORANGEVALE,4,Residential
+,ELK GROVE,3,Residential
+,EL DORADO HILLS,5,Residential
+,ROCKLIN,3,Residential
+,FOLSOM,3,Residential
+,PENRYN,3,Residential
+,LINCOLN,2,Residential
+,ROSEVILLE,5,Residential
+,GOLD RIVER,4,Residential
+,WILTON,5,Residential
+,FOLSOM,4,Residential
+,CARMICHAEL,4,Residential
+,GRANITE BAY,5,Residential
+,PLACERVILLE,3,Residential
+,WILTON,5,Residential
+,GRANITE BAY,5,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,4,Residential
+,LINCOLN,3,Residential
+,LINCOLN,3,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,LINCOLN,0,Residential
+,CITRUS HEIGHTS,3,Residential
+,RIO LINDA,0,Residential
+,SACRAMENTO,2,Residential
+,NORTH HIGHLANDS,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,RANCHO CORDOVA,2,Residential
+,SACRAMENTO,1,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,6,Multi-Family
+,CITRUS HEIGHTS,3,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,4,Residential
+,GALT,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,5,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,POLLOCK PINES,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,4,Residential
+,RANCHO CORDOVA,3,Residential
+,SACRAMENTO,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,3,Residential
+,RIO LINDA,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ROSEVILLE,2,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,3,Residential
+,SACRAMENTO,3,Residential
+,FORESTHILL,0,Residential
+,SACRAMENTO,4,Residential
+,CITRUS HEIGHTS,4,Residential
+,CAMERON PARK,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,FAIR OAKS,3,Residential
+,CARMICHAEL,3,Residential
+,ELK GROVE,4,Residential
+,ANTELOPE,3,Residential
+,EL DORADO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,1,Condo
+,ROSEVILLE,3,Condo
+,ELK GROVE,4,Residential
+,ELK GROVE,3,Residential
+,CAMERON PARK,2,Residential
+,ROSEVILLE,4,Residential
+,DIAMOND SPRINGS,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,CITRUS HEIGHTS,4,Residential
+,ELK GROVE,3,Residential
+,CARMICHAEL,2,Residential
+,SACRAMENTO,4,Multi-Family
+,ELK GROVE,3,Residential
+,ELK GROVE,0,Residential
+,ELK GROVE,5,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,3,Residential
+,ROCKLIN,3,Residential
+,SACRAMENTO,5,Residential
+,RANCHO CORDOVA,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,ANTELOPE,4,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ANTELOPE,3,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,0,Residential
+,CARMICHAEL,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,ELK GROVE,4,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,ROCKLIN,0,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,ROSEVILLE,3,Residential
+,SACRAMENTO,4,Residential
+,ORANGEVALE,3,Residential
+,LINCOLN,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,LINCOLN,4,Residential
+,PLACERVILLE,0,Residential
+,ROSEVILLE,0,Residential
+,EL DORADO HILLS,4,Residential
+,SHINGLE SPRINGS,0,Unkown
+,ELK GROVE,3,Residential
+,SACRAMENTO,5,Residential
+,LINCOLN,3,Residential
+,GALT,4,Residential
+,SACRAMENTO,5,Residential
+,CARMICHAEL,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,3,Residential
+,ANTELOPE,4,Residential
+,SACRAMENTO,4,Residential
+,PLACERVILLE,3,Residential
+,ELK GROVE,4,Residential
+,LOOMIS,4,Residential
+,ELK GROVE,0,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,COOL,3,Residential
+,ELK GROVE,6,Residential
+,ROCKLIN,3,Residential
+,ELK GROVE,5,Residential
+,CITRUS HEIGHTS,3,Residential
+,LINCOLN,4,Residential
+,CARMICHAEL,3,Residential
+,FOLSOM,3,Residential
+,ROSEVILLE,4,Residential
+,SACRAMENTO,4,Residential
+,LINCOLN,5,Residential
+,RANCHO CORDOVA,0,Residential
+,ORANGEVALE,4,Residential
+,ROSEVILLE,4,Residential
+,ANTELOPE,5,Residential
+,SACRAMENTO,3,Residential
+,ROCKLIN,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,ROCKLIN,4,Residential
+,ROSEVILLE,0,Residential
+,ROSEVILLE,3,Residential
+,GALT,3,Residential
+,LINCOLN,2,Residential
+,RANCHO CORDOVA,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,ORANGEVALE,3,Residential
+,SACRAMENTO,4,Residential
+,ROCKLIN,5,Residential
+,ROSEVILLE,5,Residential
+,ELK GROVE,5,Residential
+,ANTELOPE,3,Residential
+,LINCOLN,2,Residential
+,ROSEVILLE,3,Residential
+,ROSEVILLE,3,Condo
+,SACRAMENTO,3,Residential
+,EL DORADO HILLS,3,Residential
+,ROSEVILLE,4,Residential
+,ROSEVILLE,4,Residential
+,ROSEVILLE,0,Residential
+,WALNUT GROVE,3,Residential
+,ELK GROVE,3,Residential
+,CARMICHAEL,3,Residential
+,LINCOLN,0,Residential
+,RANCHO CORDOVA,0,Residential
+,ROSEVILLE,3,Residential
+,RANCHO CORDOVA,0,Residential
+,ELK GROVE,5,Residential
+,LINCOLN,0,Residential
+,EL DORADO HILLS,4,Residential
+,ROSEVILLE,4,Residential
+,SACRAMENTO,2,Residential
+,CARMICHAEL,3,Residential
+,AUBURN,4,Residential
+,SACRAMENTO,3,Residential
+,CAMERON PARK,3,Residential
+,LINCOLN,0,Residential
+,ROSEVILLE,5,Residential
+,FOLSOM,5,Residential
+,SACRAMENTO,5,Residential
+,FOLSOM,4,Residential
+,SACRAMENTO,4,Residential
+,ROSEVILLE,4,Residential
+,EL DORADO HILLS,3,Residential
+,PLACERVILLE,3,Residential
+,GARDEN VALLEY,3,Residential
+,EL DORADO HILLS,4,Residential
+,EL DORADO HILLS,5,Residential
+,ROSEVILLE,0,Residential
+,FAIR OAKS,3,Residential
+,EL DORADO HILLS,4,Residential
+,SACRAMENTO,3,Residential
+,AUBURN,4,Residential
+,SACRAMENTO,2,Residential
+,FOLSOM,4,Residential
+,SACRAMENTO,5,Residential
+,ROSEVILLE,5,Residential
+,ROCKLIN,4,Residential
+,GRANITE BAY,4,Residential
+,ROCKLIN,0,Residential
+,ROSEVILLE,5,Residential
+,EL DORADO HILLS,0,Residential
+,EL DORADO HILLS,0,Residential
+,EL DORADO HILLS,4,Residential
+,WILTON,4,Residential
+,LINCOLN,3,Residential
+,SLOUGHHOUSE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,1,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,1,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,CAMERON PARK,0,Condo
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,RIO LINDA,2,Residential
+,SACRAMENTO,3,Residential
+,RANCHO CORDOVA,3,Residential
+,LINCOLN,0,Condo
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,WEST SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Condo
+,SACRAMENTO,3,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,WEST SACRAMENTO,0,Residential
+,SACRAMENTO,4,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,LINCOLN,3,Residential
+,ROSEVILLE,2,Condo
+,SACRAMENTO,4,Multi-Family
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,2,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,4,Residential
+,FAIR OAKS,3,Residential
+,LINCOLN,0,Condo
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,FAIR OAKS,3,Residential
+,CITRUS HEIGHTS,4,Residential
+,SACRAMENTO,4,Residential
+,ORANGEVALE,3,Residential
+,SACRAMENTO,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,3,Residential
+,WEST SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,2,Residential
+,CARMICHAEL,3,Residential
+,ELK GROVE,2,Residential
+,SACRAMENTO,2,Residential
+,ROSEVILLE,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,GALT,3,Residential
+,ELK GROVE,4,Residential
+,ANTELOPE,3,Residential
+,SACRAMENTO,3,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,ELK GROVE,3,Residential
+,ELK GROVE,3,Residential
+,ROSEVILLE,3,Condo
+,CARMICHAEL,4,Residential
+,GALT,4,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,0,Residential
+,SACRAMENTO,3,Residential
+,NORTH HIGHLANDS,3,Residential
+,CAMERON PARK,3,Residential
+,ORANGEVALE,3,Residential
+,ELK GROVE,3,Residential
+,LINCOLN,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,4,Residential
+,ELK GROVE,3,Residential
+,SACRAMENTO,4,Residential
+,SACRAMENTO,3,Residential
+,CITRUS HEIGHTS,3,Residential
+,ELK GROVE,4,Residential
+,EL DORADO HILLS,3,Residential

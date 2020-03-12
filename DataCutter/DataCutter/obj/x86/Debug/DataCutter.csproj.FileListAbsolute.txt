@@ -1,0 +1,18 @@
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\bin\Debug\DataCutter.exe
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\bin\Debug\DataCutter.pdb
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\DataCutter.Form1.resources
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\DataCutter.Properties.Resources.resources
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\DataCutter.exe
+C:\Users\Anmol\AppData\Local\Temporary Projects\DataCutter\obj\x86\Debug\DataCutter.pdb
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\DataCutter.exe
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\DataCutter.pdb
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\bin\Debug\DataCutter.exe
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\bin\Debug\DataCutter.pdb
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\DataCutter.Form1.resources
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\DataCutter.Properties.Resources.resources
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anmol\Documents\Visual Studio 2010\Projects\DataCutter\DataCutter\obj\x86\Debug\GenerateResource.write.1.tlog
