@@ -18,6 +18,10 @@ If left blank, the tool will leave the column as blank while extracting files.
 <p>
 3. To Save the Selected Column in an Flat file. Click File > Save As
 <p>
+4. Once the application is done slicing and dicing your data, it show a pop-up with a message like 
+<p>
+<I>"14 rows extracted to file.txt"</I>
+<p>
 <I> The tool doesn't have any progress estimator built into it. If the file is large please be patient </I>
 
 <B> Terms of Usage </B>
