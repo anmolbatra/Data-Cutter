@@ -8,7 +8,8 @@ As of now it can process files as large as 64 GB (Not limited by RAM).
 
 <B> Getting Started </B>
 <p>
-<t>
+For executable use visit the folder DataCutter/bin/Release/DataCutter.exe 
+<p>
 1. To filter the data, click File > Open 
 <I> Or alternatively press Ctrl + O. </I>
 The File name will be visible in the status bar at the bottom.
